@@ -18,7 +18,7 @@
 
 | Rev | Date       | Author          | Change Description |
 | --- | ---------- | --------------- | ------------------ |
-| 0.1 | 2026-09-23 | Anton Hryshchuk | Initial version    |
+| 0.1 | 2026-09-23 | Anton Hryshchuk | 1.0                |
 
 
 
